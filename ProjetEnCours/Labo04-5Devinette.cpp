@@ -2,7 +2,7 @@
 // A la fin le programme affiche la bonne note.
 
 // Auteur :  Karine Moreau
-// Date : 2021-09-16
+// Date : 2021-09-16 
 
 #include <iostream>
 #include <time.h>
